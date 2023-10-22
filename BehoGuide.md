@@ -61,9 +61,9 @@
   * **[ `Ningal` + `Ark` + `Shield-All Barrier` ]**
     * **Shielding = key**.
     * *Less optimal shield providing alternative: `Parker`*.
- * **[ `Anunnaki` + `Tanking Vehicle` + `Repair Drone` ]**
+  * **[ `Anunnaki` + `Tanking Vehicle` + `Repair Drone` ]**
     * **Mighty Shielding = key**.
- * **[ `Vito` + `Tanking Vehicle` + `Repair Drone` ]**
+  * **[ `Vito` + `Tanking Vehicle` + `Repair Drone` ]**
     * **A lot of bonus things = key**.
 - Do **NOT** count out `Reverb`/`Stego` as tanking units.
   * *For me picking Reverb over Siren made the difference between loss and win*.

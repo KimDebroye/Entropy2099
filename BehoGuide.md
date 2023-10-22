@@ -69,7 +69,7 @@
   * *For me picking Reverb over Siren made the difference between loss and win*.
   * *I ignore `Fortress` vehicle because I believe Reverb and Stego are always the better choice*.
 - At least for me, a [ `Ningal + Anunnaki` ] setup beats a [ `Ninurta` ] setup.
-  * *Quoting Exadon, the key thing in a `Ninurta` build is [ `Lindsay + Electric Spark` ]*.
+  * *Quoting Exadon, the key in a `Ninurta` build is [ `Lindsay + Electric Spark` ]*.
   * My ( *current* ) point of view on `Ninurta`:
     - Good hero, provides fair amount and frequent repairs for all.
     - Disables vehicle default and special shots but spits damage based 350% of vehicle dmg to surrounding foes within 5 tiles.

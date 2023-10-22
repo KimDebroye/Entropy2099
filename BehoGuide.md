@@ -51,7 +51,7 @@
 
 ## Formation Composition
 
-### `Advised Must-Haves`
+### Advised Must-Haves
 - **[ `Smith + Crimson + Diffusion Bomb` ]**
   * **Damage = key**.
   * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
@@ -67,7 +67,7 @@
 - **[ `Vito + Tanking Vehicle + Repair Drone` ]**
   * **A lot of bonus things = key**.
 
-### `General Remarks`
+### General Remarks
 - Do **NOT** count out `Reverb`/`Stego` as tanking units.
   * *For me picking Reverb over Siren made the difference between loss and win*.
   * *I ignore `Fortress` vehicle because I believe Reverb and Stego are always the better choice*.

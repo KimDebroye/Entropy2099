@@ -51,19 +51,19 @@
 
 ## Formation Composition
 - Advised must-haves:
-  * **[ `Smith` + `Crimson` + `Diffusion Bomb` ]**
+  * **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
     * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
-  * **[ `Flora` + `Spotlight` + `Repair-All Field` ]**
+  * **[ `Flora + Spotlight + Repair-All Field` ]**
     * **Energy Ability ( *better repairs* ) = key**.
     * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
     * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
-  * **[ `Ningal` + `Ark` + `Shield-All Barrier` ]**
+  * **[ `Ningal + Ark + Shield-All Barrier` ]**
     * **Shielding = key**.
     * *Less optimal shield providing alternative: `Parker`*.
-  * **[ `Anunnaki` + `Tanking Vehicle` + `Repair Drone` ]**
+  * **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
     * **Mighty Shielding = key**.
-  * **[ `Vito` + `Tanking Vehicle` + `Repair Drone` ]**
+  * **[ `Vito + Tanking Vehicle + Repair Drone` ]**
     * **A lot of bonus things = key**.
 - Do **NOT** count out `Reverb`/`Stego` as tanking units.
   * *For me picking Reverb over Siren made the difference between loss and win*.

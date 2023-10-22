@@ -61,7 +61,7 @@
   * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
 - **[ `Ningal + Ark + Shield-All Barrier` ]**
   * **Shielding = key**.
-  * *Afaik, less optimal shield providing alternative: `Parker`*.
+  * *Shield providing alternative: `Parker`*.
 - **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
   * **Mighty Shielding = key**.
 - **[ `Vito + Tanking Vehicle + Repair Drone` ]**

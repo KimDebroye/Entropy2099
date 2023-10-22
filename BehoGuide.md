@@ -106,7 +106,7 @@
 ![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
 #### **Separated X Positioning | Overview**
-- Refer to [Lasher Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
+- Refer to [Lasher< \| Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
 
 ---
 

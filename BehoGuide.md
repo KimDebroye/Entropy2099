@@ -84,7 +84,7 @@
 
 ---
 
-> ### Lashers | Default X Positioning
+### Lashers | Default X Positioning
 
 ![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 

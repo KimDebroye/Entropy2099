@@ -88,13 +88,13 @@
 
 ![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
-#### **Default X Positioning | Description**
+#### **Description**
 - **Exactly 2 spots in between all units**.
 - **Ark Shield encapsulates all other units**.
   * = *Positioned right in the middle of all other units*.
   * **Time the popping of the Ark Shield well**.
     * *I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure*.
-#### **Default X Positioning | General Remarks**
+#### **General Remarks**
 - **Default X Positioning works for `Lashers` as well as `Revivers`**.
 - **`Howlers` require a minor positioning change for tanking units in order for troops to survive**.
   * *[See further on](#howlers--separated-x-positioning) for more details*.
@@ -105,7 +105,7 @@
 
 ![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
-#### **Separated X Positioning | Description**
+#### **Description**
 - Refer to [Lashers< \| Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
 
 ---
@@ -114,7 +114,7 @@
 
 ![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler.png)
 
-#### **Separated X Positioning | Description**
+#### **Description**
 - **Separate both tankers** ( ***minimum 3 spots in between*** ).
   * *While the Ark Shield won't reach, the Howler hitting them with aoe won't damage Ark nor other units*.
 - **Ark should (*still*) encapsulate other 2 less tanking units**.

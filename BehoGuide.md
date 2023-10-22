@@ -3,12 +3,12 @@
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
 ## Table of Contents
-- [In General \]](#in-general)
-- [Formation Composition \]](#formation-composition)
-- [Formation Positioning \]](#formation-positioning)
-  * [Lashers | Default X Positioning]](#lashers--default-x-positioning)
-  * [Revivers | Default X Positioning]](#revivers--default-x-positioning)
-  * [Howlers | Separated X Positioning]](#howlers--separated-x-positioning)
+- [In General](#in-general)
+- [Formation Composition](#formation-composition)
+- [Formation Positioning](#formation-positioning)
+  * [Lashers \| Default X Positioning](#lashers--default-x-positioning)
+  * [Revivers \| Default X Positioning](#revivers--default-x-positioning)
+  * [Howlers \| Separated X Positioning](#howlers--separated-x-positioning)
 
 ---
 

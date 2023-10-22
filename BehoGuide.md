@@ -79,6 +79,7 @@
     - Biggest downside imo:
       * Can only be used as a single Utu hero in formation ( *1 or less Utu requirement* ).
       * Not combinable with [ `Ningal + Anunnaki` ] setup.
+- For ideas/examples on ( *proven* ) formation compositions, check the Behemoth Kill Rankings.
 
 ---
 

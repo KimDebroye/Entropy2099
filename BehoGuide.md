@@ -6,9 +6,9 @@
 - [In General](#in-general)
 - [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
-  * [Lashers \| Default X Positioning](#lashers--default-x-positioning)
-  * [Revivers \| Default X Positioning](#revivers--default-x-positioning)
-  * [Howlers \| Separated X Positioning](#howlers--separated-x-positioning)
+  * [Lashers | Default X Positioning](#lashers--default-x-positioning)
+  * [Revivers | Default X Positioning](#revivers--default-x-positioning)
+  * [Howlers | Separated X Positioning](#howlers--separated-x-positioning)
 
 ---
 

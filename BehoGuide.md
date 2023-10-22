@@ -9,7 +9,7 @@
   * [Lashers | Default X Positioning](#lashers--default-x-positioning)
   * [Revivers | Default X Positioning](#revivers--default-x-positioning)
   * [Howlers | Separated X Positioning](#howlers--separated-x-positioning)
-- [Clsoing Words](#closing-words)
+- [Closing Words](#closing-words)
 
 ---
 

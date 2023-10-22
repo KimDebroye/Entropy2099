@@ -1,3 +1,3 @@
-# Entropy 2099 Behemoth Guide
+# Entropy 2099 | Behemoth Guide
 
 ## 

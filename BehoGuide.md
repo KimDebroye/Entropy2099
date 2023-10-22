@@ -3,7 +3,7 @@
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
 ## Table of Contents
-- [In General](#in-general)
+- [General Remarks](#general-remarks)
 - [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
   * [Lashers | Default X Positioning](#lashers--default-x-positioning)
@@ -13,7 +13,7 @@
 
 ---
 
-## In General
+## General Remarks
 - **Nuclear all the way for behos**.
   * *A few thermal/electro-magnetic exceptions are possible and even advised*.
 - Difficulty scale:

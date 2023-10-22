@@ -3,12 +3,12 @@
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
 ## Table of Contents
-- [\[ In General \]](#in-general)
-- [\[ Formation Composition \]](#formation-composition)
-- [\[ Formation Positioning \]](#formation-positioning)
-  * [\[ Lashers | Default X Positioning \]](#lashers--default-x-positioning)
-  * [\[ Revivers | Default X Positioning \]](#revivers--default-x-positioning)
-  * [\[ Howlers | Separated X Positioning \]](#howlers--separated-x-positioning)
+- [In General \]](#in-general)
+- [Formation Composition \]](#formation-composition)
+- [Formation Positioning \]](#formation-positioning)
+  * [Lashers | Default X Positioning]](#lashers--default-x-positioning)
+  * [Revivers | Default X Positioning]](#revivers--default-x-positioning)
+  * [Howlers | Separated X Positioning]](#howlers--separated-x-positioning)
 
 ---
 
@@ -88,7 +88,7 @@
 
 ![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
-#### **Default X Positioning | Overview**
+#### **Default X Positioning | Description**
 - **Exactly 2 spots in between all units**.
 - **Ark Shield encapsulates all other units**.
   * = *Positioned right in the middle of all other units*.
@@ -105,8 +105,8 @@
 
 ![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
-#### **Separated X Positioning | Overview**
-- Refer to [Lasher< \| Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
+#### **Separated X Positioning | Description**
+- Refer to [Lashers< \| Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
 
 ---
 
@@ -114,7 +114,7 @@
 
 ![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler.png)
 
-#### **Separated X Positioning | Overview**
+#### **Separated X Positioning | Description**
 - **Separate both tankers** ( ***minimum 3 spots in between*** ).
   * *While the Ark Shield won't reach, the Howler hitting them with aoe won't damage Ark nor other units*.
 - **Ark should (*still*) encapsulate other 2 less tanking units**.

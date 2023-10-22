@@ -56,8 +56,8 @@
     * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
   * **[ `Flora` + `Spotlight` + `Repair-All Field` ]**
     * **Energy Ability ( *better repairs* ) = key**.
-      * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
-      * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
+    * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
+    * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
   * **[ `Ningal` + `Ark` + `Shield-All Barrier` ]**
     * **Shielding = key**.
     * *Less optimal shield providing alternative: `Parker`*.

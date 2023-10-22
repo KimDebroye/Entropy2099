@@ -81,7 +81,7 @@
       * Not combinable with [ `Ningal + Anunnaki` ] setup.
 - Since a composition takes into account many different factors ( *heroes owned* | *amount of upgrades* | *command cap* | ... ):
   * Details in a composition that don't quite work out for another, may still work out for you and/or vice versa.
-    * *This is where the experimental and informing part comes in*.
+    * *This is where the experimental and 'informing yourself' part comes in*.
   * For different ideas/examples on ( *proven* ) formation compositions, check the in-game Behemoth Kill Rankings.
 
 ---

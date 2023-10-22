@@ -7,6 +7,10 @@
 - [\[ Formation Composition \]](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#formation-composition)
 - [\[ Formation Positioning \]](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#formation-positioning)
   * [\[ Lashers | Default X Positioning \]](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#lashers--default-x-positioning)
+  * [\[ Revivers | Default X Positioning \]](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#revivers--default-x-positioning)
+  * [\[ Howlers | Separated X Positioning \]](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#howlers--separated-x-positioning)
+
+---
 
 ## In General
 - **Nuclear all the way for behos**.
@@ -42,33 +46,83 @@
   * Defensive vehicle(s) can be replaced with damage dealing vehicle(s) for a slight speedup.
     * *Hence why you'll notice me using [ `Vito` + `Fission Walker` ] in screenshots instead of a tankier vehicle*.
 
+---
+
 ## Formation Composition
 - Advised must-haves:
- * **[ `Smith` + `Crimson` + `Diffusion Bomb` ]**
-   * **Damage = key**.
-   * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
- * **[ `Flora` + `Spotlight` + `Repair-All Field` ]**
-   * **Energy Ability ( *better repairs* ) = key**.
-   * *Less optimal alternative for `Repair-All Field`= `(purple) Emergency Repairs`*.
-   * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
- * **[ `Ningal` + `Ark` + `Shield-All Barrier` ]**
-   * **Shielding = key**.
-   * *Less optimal shield providing alternative: `Parker`*.
+  * **[ `Smith` + `Crimson` + `Diffusion Bomb` ]**
+    * **Damage = key**.
+    * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
+  * **[ `Flora` + `Spotlight` + `Repair-All Field` ]**
+  * **Energy Ability ( *better repairs* ) = key**.
+    * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
+    * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
+  * **[ `Ningal` + `Ark` + `Shield-All Barrier` ]**
+    * **Shielding = key**.
+    * *Less optimal shield providing alternative: `Parker`*.
  * **[ `Anunnaki` + `Tanking Vehicle` + `Repair Drone` ]**
-   * **Mighty Shielding = key**.
+    * **Mighty Shielding = key**.
  * **[ `Vito` + `Tanking Vehicle` + `Repair Drone` ]**
-   * **A lot of bonus things = key**.
+    * **A lot of bonus things = key**.
 - Do **NOT** count out `Reverb`/`Stego` as tanking units.
   * *For me picking Reverb over Siren made the difference between loss and win*.
   * *I ignore `Fortress` vehicle because I believe Reverb and Stego are always the better choice*.
 - At least for me, a [ `Ningal + Anunnaki` ] setup beats a [ `Ninurta` ] setup.
   * *Quoting Exadon, the key thing in a `Ninurta` build is [ `Lindsay + Electric Spark` ]*.
-  * My ( *current* ) point of view on `Ninurta`: https://discord.com/channels/1110967420396507198/1111191587075145728/1165579266004635769 ( *first paragraph* ).
-    * *Note: the above link requires DNG Discord access in order to view*.
+  * My ( *current* ) point of view on `Ninurta`:
+    - Good hero, provides fair amount and frequent repairs for all.
+    - Disables vehicle default and special shots but spits damage based 350% of vehicle dmg to surrounding foes within 5 tiles.
+    - Biggest downside imo:
+      * Can only be used as a single Utu hero in formation ( *1 or less Utu requirement* ).
+      * Not combinable with [ `Ningal + Anunnaki` ] setup.
+
+---
 
 ## Formation Positioning
 
-> *Note in advance: I'd have taken Beho Trial screenshots for better grid view purposes, although I can't enter at the moment since current max level reached*.
+*Note in advance: I'd have taken Beho Trial screenshots for better grid view purposes, although I can't enter at the moment since current max level has been reached*. *Screenshots with a better grid view will be added later on.*
 
-### Lashers | Default X Positioning
-![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
+---
+
+> ### Lashers | Default X Positioning
+
+![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
+
+#### > **Default X Positioning | Overview**
+- **Exactly 2 spots in between all units**.
+- **Ark Shield encapsulates all other units**.
+  * = *Positioned right in the middle of all other units*.
+  * **Time the popping of the Ark Shield well**.
+    * *I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure*.
+#### > **Default X Positioning | General Remarks**
+- **Default X Positioning works for `Lashers` as well as `Revivers`**.
+- **`Howlers` require a minor positioning change for tanking units in order for troops to survive**.
+  * *[See further on](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#howlers--separated-x-positioning) for more details*.
+
+---
+
+> ### Revivers | Default X Positioning
+
+![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
+
+#### > Refer to [Lasher Default X Positioning](https://github.com/KimDebroye/Entropy2099/blob/main/BehoGuide.md#lashers--default-x-positioning) ( *similar setup* ).
+
+---
+
+> ### Howlers | Separated X Positioning
+
+![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler.png)
+
+#### > **Separated X Positioning | Overview**
+- **Separate both tankers** ( ***minimum 3 spots in between*** ).
+  * *While the Ark Shield won't reach, the Howler hitting them with aoe won't damage Ark nor other units*.
+- **Ark should (*still*) encapsulate other 2 less tanking units**.
+  * Depending on formation, save your Ark Shield. Only pop if Howler attacks Ark or any of the damage dealers for a second time.
+    * In other words: **Ark Shield on Howlers = panic trigger only** ( & ***keep in mind, it won't reach tankers*** ).
+
+---
+
+## Closing Words
+> Feel free to provide feedback/corrections/details/... if and where needed.
+> This quick guide wouldn't have been possible without experimenting and earlier tips & tricks from others as well.
+> I merely recapped things a bit based on own experiments and theirs.

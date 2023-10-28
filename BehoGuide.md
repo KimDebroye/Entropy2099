@@ -13,7 +13,7 @@
 - [Formation Positioning](#formation-positioning)
   * [Lashers | Default X Positioning](#lashers--default-x-positioning)
   * [Revivers | Default X Positioning](#revivers--default-x-positioning)
-  * [Howlers | Separated X Positioning \| 3 Tile Distance \| No Ark](#howlers--separated-x-positioning--3-tile-distance--no-ark)
+  * [Howlers | Separated Positioning \| 3 Tile Distance \| No Ark](#howlers--separated-positioning--3-tile-distance--no-ark)
 - [Closing Words](#closing-words)
 
 ---
@@ -152,7 +152,7 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 #### `General Remarks`
 - **Default X Positioning works for `Lashers` as well as `Revivers`**.
 - **`Howlers` require a minor positioning change for tanking units in order for troops to survive**.
-  * *[See further on](#howlers--separated-x-positioning--3-tile-distance--no-ark) for more details*.
+  * *[See further on](#howlers--separated-positioning--3-tile-distance--no-ark) for more details*.
 
 ---
 
@@ -165,7 +165,7 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 ---
 
-### Howlers | Separated X Positioning | 3 Tile Distance | No Ark
+### Howlers | Separated Positioning | 3 Tile Distance | No Ark
 
 ![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
 

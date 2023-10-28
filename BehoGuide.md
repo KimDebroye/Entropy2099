@@ -67,7 +67,7 @@
 - **[ `Ningal + Anunnaki` Build ]**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
-    * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
+    * *Possible alternatives for `Smith` later on in season ( due to increased command cap )*.
   - **[ `Flora + Spotlight + Repair-All Field` ]**
     * Reasons for mentioning Spotlight:
       * **High Energy Ability ( *=> better repairs* ) = key**.

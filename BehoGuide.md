@@ -113,10 +113,10 @@
 ### General Remarks
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( *besides fair amount of repairs & shielding* )**.
   * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
-  * If a behemoth focuses mostly on but a single unit ( that can't handle its damage ):
+  * If a behemoth focuses mostly on but a single unit ( *that can't handle its damage* ):
     * Experiment f.e. with a higher vehicle threat level on the other ( *preferably* ) tanking unit(s).
 - **Do NOT count out `Reverb`/`Stego` as tanking units**.
-  * *For me picking Reverb over Siren made the difference between loss and win*.
+  * *For me picking Reverb over Siren made the difference between loss and win at some point*.
   * *Ignoring `Fortress` vehicle because ( at least for me ) Reverb and Stego are the better choice*.
   * *In fact: do not count out any hero/vehicle/drone when experimenting*.
 - **Drone alternative(s) for any of the tanking units**:

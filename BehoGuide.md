@@ -47,7 +47,8 @@
 - ( *Optional* ) At the point Behos become more forgiving for a formation:
   * Defensive drone(s) can be replaced with damage dealing drone(s) for a slight speedup.
   * Defensive vehicle(s) can be replaced with damage dealing vehicle(s) for a slight speedup.
-- ( *Optional* | *Battle Field Only* ) *If that little extra shielding would make the difference, ask other players to help with additional Ark shielding*.
+- ( *Optional* ) *If that little extra shielding would make the difference, ask other alliance members to help with additional Ark shielding*.
+  * *Works on battlefield only* ( *does not work in Grod Trials* ).
 
 ---
 

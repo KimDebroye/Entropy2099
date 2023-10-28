@@ -56,7 +56,7 @@
       * `Repair/Shield <Effect> Increase`: _for unit **self** repairs/shields only_.
         * _Note: also **increases repairs/shields provided to other units**_. 
   * **Special vehicle accessories**.
-    * Equip vehicle accessories that have added stats beneficial to a specific vehicle.
+    * If owned, equip vehicle accessories that have added stats beneficial to a specific vehicle.
       * Overview of special accessories: `Vehicle Analysis Building` > _click_ > `Rewards Preview` ( _bottom left icon_ )
 - **Experiment yourself** and work with successful working lineups & advice/feedback from other players.
   * **Make minor adjustments only if a formation is nearly there**.

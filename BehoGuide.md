@@ -149,6 +149,8 @@
 
 ---
 
+<br />
+
 > ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
@@ -196,6 +198,8 @@
     * _And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal`, `Anunnaki` or any other Utu hero_.
 
 ---
+
+<br />
 
 > ### General Formation Notes
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( _besides fair amount of repairs & shielding_ )**.

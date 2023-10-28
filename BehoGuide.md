@@ -169,7 +169,7 @@
 ![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
 #### `Description`
-- Refer to [Lashers \| Default Positioning \ | 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
+- Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
 
 ---
 

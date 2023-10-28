@@ -160,8 +160,19 @@
 
 > ## Formation Positioning
 
-> - Screenshots with a better grid view will be added gradually over time.
+> - Screenshots with a better grid view will be added gradually over time.<br />
 
+<br />
+
+> ### General Positioning Notes
+
+- The units in screenshots below are positioned in an X-like shape.
+- The X position is merely an example.
+- On battle field, an X position isn't always advised.
+  * Sometimes f.e. a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
+  * _Personally, I do use X positioning as a default placement ( even on battle field )_.
+    * _Setting up units near a beho becomes an automatism_.
+    * _It's easy to adjust/do variations based on it keeping in mind the recommended unit distances_.
 ---
 
 <br />

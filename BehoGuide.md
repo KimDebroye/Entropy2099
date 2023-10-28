@@ -170,6 +170,7 @@
 
 #### `Description`
 - Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
+- **Using `Ark` Shielding is strongly recommended for `Revivers`**.
 
 ---
 

@@ -1,10 +1,10 @@
-# Entropy 2099 | Behemoth Quick Guide
+> # Entropy 2099 | Behemoth Quick Guide
 
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
 <br />
 
-## Disclaimer
+> ## Disclaimer
 
 > - This document/guide is prone to change based on feedback and/or experiments conducted by others & self.<br />
 > - This document/guide may contain incorrect statements, hence feedback is always welcome.
@@ -13,7 +13,7 @@
 
 <br />
 
-## Table of Contents
+> ## Table of Contents
 - [General Remarks](#general-remarks)
 - [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
@@ -26,7 +26,7 @@
 
 <br />
 
-## General Remarks
+> ## General Remarks
 - **Nuclear all the way for behos**.
   * _A few thermal/electro-magnetic exceptions are possible and even advised_.
 - Difficulty scale:
@@ -71,14 +71,14 @@
 
 <br />
 
-## Formation Composition
+> ## Formation Composition
 
 > - The following are well tested combinations and therefore enlisted as a starting point.<br />
 > - Nevertheless, mixed/alternative combinations of enlisted ( _as well as unlisted_ ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
 
 ---
 
-### Advised Must-Haves
+> ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
@@ -126,7 +126,7 @@
 
 ---
 
-### General Remarks
+> ### General Remarks
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( _besides fair amount of repairs & shielding_ )**.
   * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
   * If a behemoth focuses mostly on but a single unit ( _that can't handle its damage_ ):
@@ -158,7 +158,7 @@
 
 <br />
 
-## Formation Positioning
+> ## Formation Positioning
 
 > - Screenshots with a better grid view will be added gradually over time.
 
@@ -166,18 +166,18 @@
 
 <br />
 
-### Lashers | Default Positioning | 2 Tile Unit Distance
+> ### Lashers | Default Positioning | 2 Tile Unit Distance
 
 ![Default Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
-#### `Description`
+> #### `Description`
 - **Exactly 2 tiles in between all units**.
 - **Ark Shield encapsulates all other units**.
   * = _Positioned right in the middle of all other units_.
   * **Time the popping of the Ark Shield well**.
     * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
 
-#### `General Remarks`
+> #### `General Remarks`
 - **Default Positioning works for `Lashers` as well as `Revivers`**.
 - **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
 - **`Howlers` require a positioning and formation change in order for units to survive**.
@@ -191,7 +191,7 @@
 
 ![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
-#### `Description`
+> #### `Description`
 - Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
 - **Using `Ark` Shielding is strongly recommended for `Revivers`**.
 
@@ -203,7 +203,7 @@
 
 ![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
 
-#### `Description`
+> #### `Description`
 - **Separate ALL units** ( ***minimum 3 tiles in between*** ).
   * Reason: The AOE of the Howler reaches up to 3 tiles.
     * _If one unit gets hit by aoe, other units won't ( take damage )_.
@@ -216,7 +216,7 @@
 
 <br />
 
-## Closing Words
+> ## Closing Words
 > Feel free to provide feedback/corrections/details/... if and where needed.
 > This quick guide wouldn't have been possible without experimenting and earlier tips & tricks from others as well.
 > I merely recapped things a bit based on my own experiments and theirs.

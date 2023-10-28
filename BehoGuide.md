@@ -13,7 +13,7 @@
 - [Formation Positioning](#formation-positioning)
   * [Lashers | Default X Positioning](#lashers--default-x-positioning)
   * [Revivers | Default X Positioning](#revivers--default-x-positioning)
-  * [Howlers | Separated X Positioning](#howlers--separated-x-positioning--3-tile-distance--no-ark)
+  * [Howlers | Separated X Positioning \| 3 Tile Distance \| No Ark](#howlers--separated-x-positioning--3-tile-distance--no-ark)
 - [Closing Words](#closing-words)
 
 ---

@@ -180,7 +180,7 @@
 #### `General Remarks`
 - **Default Positioning works for `Lashers` as well as `Revivers`**.
 - **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
-- **`Howlers` require a positioning and formation change for units in order for troops to survive**.
+- **`Howlers` require a positioning and formation change in order for units to survive**.
   * _[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details_.
 
 ---

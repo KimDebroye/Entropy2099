@@ -164,9 +164,10 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 #### `Description`
 - **Separate ALL units** ( ***minimum 3 tiles in between*** ).
-  * Reason: The AOE of the Howler reaches . 
+  * Reason: The AOE of the Howler reaches up to 3 tiles.
+    * *If one unit gets hit by aoe, other units won't ( take damage )*.
 - **Do NOT use `Ark`**.
-  * `Ark` Shield reaches only within 2 tiles ( *won't reach any of the other units* ).
+  * `Ark` Shield only reaches within 2 tiles ( *won't reach any of the other units* ).
   * Replace `Ark` with a damage dealing vehicle that suits the hero combined with it.
     * *F.e. `Parker + Mirage + Shield Barrier`*.
 

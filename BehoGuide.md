@@ -31,6 +31,7 @@
   * **3 accompanying units** that focus on:
     * (Additional) **damage = key**.
     * (Additional) **repairs and shielding = key**.
+    * (Additional) tanking.
 - Focus on:
   * **Vehicle & Unit enhancing upgrades in base**.
   * **Vehicle Threat Level**.

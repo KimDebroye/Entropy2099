@@ -11,8 +11,8 @@
 - [General Remarks](#general-remarks)
 - [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
-  * [Lashers | Default X Positioning \| 2 Tile Unit Distance](#lashers--default-x-positioning--2-tile-unit-distance)
-  * [Revivers | Default X Positioning \| 2 Tile Unit Distance](#revivers--default-x-positioning--2-tile-unit-distance)
+  * [Lashers | Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance)
+  * [Revivers | Default Positioning \| 2 Tile Unit Distance](#revivers--default-positioning--2-tile-unit-distance)
   * [Howlers | Separated Positioning \| 3 Tile Unit Distance \| No Ark](#howlers--separated-positioning--3-tile-unit-distance--no-ark)
 - [Closing Words](#closing-words)
 
@@ -146,9 +146,9 @@
 
 ---
 
-### Lashers | Default X Positioning | 2 Tile Unit Distance
+### Lashers | Default Positioning | 2 Tile Unit Distance
 
-![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
+![Default Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
 #### `Description`
 - **Exactly 2 tiles in between all units**.
@@ -157,19 +157,19 @@
   * **Time the popping of the Ark Shield well**.
     * *I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure*.
 #### `General Remarks`
-- **Default X Positioning works for `Lashers` as well as `Revivers`**.
+- **Default Positioning works for `Lashers` as well as `Revivers`**.
 - **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
 - **`Howlers` require a positioning and formation change for units in order for troops to survive**.
   * *[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details*.
 
 ---
 
-### Revivers | Default X Positioning | 2 Tile Unit Distance
+### Revivers | Default Positioning | 2 Tile Unit Distance
 
-![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
+![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
 #### `Description`
-- Refer to [Lashers \| Default X Positioning \ | 2 Tile Unit Distance](#lashers--default-x-positioning--2-tile-unit-distance) ( *similar setup* ).
+- Refer to [Lashers \| Default Positioning \ | 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
 
 ---
 

@@ -126,7 +126,7 @@
 
 ---
 
-> ### General Remarks
+> ### General Formation Notes
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( _besides fair amount of repairs & shielding_ )**.
   * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
   * If a behemoth focuses mostly on but a single unit ( _that can't handle its damage_ ):
@@ -170,7 +170,7 @@
 
 - The units in screenshots below are positioned in an X-like shape.
 - The X position is merely an example.
-- On battle field, an X position isn't always advised.
+- On battle field, an X position isn't always recommended.
   * Sometimes f.e. a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
   * _Personally, I do use X positioning as a default placement ( even on battle field )_.
     * _Setting up units near a beho becomes an automatism_.

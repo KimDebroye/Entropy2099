@@ -165,7 +165,7 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 ---
 
-### Howlers | Separated Positioning | 3 Tile Distance | No Ark
+### Howlers | Separated Positioning | 3 Tile Unit Distance | No Ark
 
 ![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
 

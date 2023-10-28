@@ -162,6 +162,8 @@
 
 > - Screenshots with a better grid view will be added gradually over time.<br />
 
+---
+
 <br />
 
 > ### General Positioning Notes

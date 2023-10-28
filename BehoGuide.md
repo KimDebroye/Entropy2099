@@ -158,7 +158,7 @@
     * *I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure*.
 #### `General Remarks`
 - **Default X Positioning works for `Lashers` as well as `Revivers`**.
-  * **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
+- **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
 - **`Howlers` require a positioning and formation change for units in order for troops to survive**.
   * *[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details*.
 

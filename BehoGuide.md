@@ -105,7 +105,7 @@
   * **[ `Lindsay + (f.e.) Spotlight + Electric Spark/Shock Grenades` ]**
     * **Huge decreased behemoth aoe recharge time = key**.
   * \+ *Any of the previous combos mentioned.*
-    * *And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal` and/or `Anunnaki`*.
+    * *And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal`, `Anunnaki` or any other Utu hero*.
 
 ### General Remarks
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( *besides fair amount of repairs & shielding* )**.

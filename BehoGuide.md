@@ -174,7 +174,7 @@
   - **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
     * **Mighty Shielding = key**.
       * [ **Note Of Interest** ]
-        * **Mighty Shield =/= Regular Shield.**
+        * **Mighty Shield ≠ Regular Shield.**
           * Mighty Shield = Takes away all damage from a single behemoth hit ( _counts for normal as well as aoe attacks_ ).
           * Regular Shield = Takes away some damage from a single behemoth hit, but in most cases not all.
         * Unless `Anunnaki` is used as a ( _regular_ ) shield providing unit, there is no need to increase its `Shield Expert` Hero Talent.

@@ -61,7 +61,7 @@
 ## Formation Composition
 
 > - The following are well tested combinations and therefore enlisted as a starting point.<br />
-> - Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
+> - Nevertheless, mixed/alternative combinations of enlisted ( *as well as unlisted* ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
 
 ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**

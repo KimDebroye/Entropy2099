@@ -94,7 +94,8 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
         * *Not combinable with [ `Ningal + Anunnaki` ] heroes*. 
   * **[ `Lindsay + (f.e.) Spotlight + Electric Spark/Shock Grenades` ]**
     * **Huge decreased behemoth aoe recharge time = key**.
-  * + *Any of the previous combos mentioned and/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal` and/or `Anunnaki`*.
+  * + *Any of the previous combos mentioned.
+    * *And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal` and/or `Anunnaki`*.
 
 ### General Remarks
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( *besides fair amount of repairs & shielding* )**.

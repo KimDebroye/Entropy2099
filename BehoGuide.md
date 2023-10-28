@@ -185,7 +185,7 @@
 
 > #### `Description`
 - **Exactly 2 tiles in between all units**.
-- **Ark Shield encapsulates all other units**.
+- **`Ark` Shield encapsulates all other units**.
   * = _Positioned right in the middle of all other units_.
   * **Time the popping of the Ark Shield well**.
     * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.

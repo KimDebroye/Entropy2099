@@ -49,6 +49,7 @@
   * Defensive vehicle(s) can be replaced with damage dealing vehicle(s) for a slight speedup.
 - ( *Optional* ) *If that little extra shielding would make the difference, ask other alliance members to help with additional Ark shielding*.
   * *Works on battlefield only* ( *does not work in Grod Trials* ).
+  * *May come in handy if that little extra is needed for f.e. getting Hunter License Achievements*.
 
 ---
 

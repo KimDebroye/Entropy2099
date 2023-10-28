@@ -5,7 +5,7 @@
 ## General Reminder
 ```
 ⦿ This document/guide is prone to change based on feedback and/or experiments conducted by others & self.
-⦿ This document/guide could contain incorrect statements, hence feedback is always welcome.
+⦿ This document/guide may contain incorrect statements, hence feedback is always welcome.
 ```
 ## Table of Contents
 - [General Remarks](#general-remarks)

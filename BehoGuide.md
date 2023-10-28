@@ -67,14 +67,13 @@
 - **[ `Ningal + Anunnaki` Build ]**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
-    * *Possible alternatives for `Smith` later on in season ( due to increased command cap )*.
-      * Planned | To be tested/experimented with:
-        * `Elena`
-          * *Basically the Flora for Thermals ( added damage with the applied Thermal Incineration effects from f.e. Spotlight )*.
-          * *Behemoth damage reduction ( `Smith` has a fixed behemoth damage reduction, while `Elena`'s damage reduction is better for formation but has to be triggered )*.
-        * `Orne` | `Marchioli`
-          * *Huge damage dealers*.
-          * *Compared to `Elena`, less interesting bonus abilities beho wise at first sight.*
+    * *Planned | To be tested/experimented with alternatives for `Smith` later on in season ( due to increased command cap )*.
+      * `Elena`
+        * *Basically the Flora for Thermals ( added damage with the applied Thermal Incineration effects from f.e. Spotlight )*.
+        * *Behemoth damage reduction ( `Smith` has a fixed behemoth damage reduction, while `Elena`'s damage reduction is better for formation but has to be triggered )*.
+      * `Orne` | `Marchioli`
+        * *Huge damage dealers*.
+        * *Compared to `Elena`, less interesting bonus abilities beho wise at first sight.*
   - **[ `Flora + Spotlight + Repair-All Field` ]**
     * Reasons for mentioning Spotlight:
       * **High Energy Ability ( *=> better repairs* ) = key**.

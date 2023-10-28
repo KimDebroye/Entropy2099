@@ -52,9 +52,9 @@
   * **Grod dmg & def enhancing vehicle accessories**.
   * **Repair & Shield enhancing vehicle accessories**.
     * Mind the following difference:
+      * `Repair/Shield <Received> Increase`: _for repairs/shields **received from other units**_.
       * `Repair/Shield <Effect> Increase`: _for unit **self** repairs/shields only_.
         * _Note: also **increases shielding provided to other units**_. 
-      * `Repair/Shield <Received> Increase`: _for repairs/shields **received from other units**_.
   * **Special vehicle accessories**.
     * Look out for and equip vehicle accessories that have added stats beneficial to a specific vehicle.
       * Overview of special accessories: `Vehicle Analysis Building` > _click_ > `Rewards Preview` ( _bottom left icon_ )

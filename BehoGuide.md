@@ -11,9 +11,9 @@
 - [General Remarks](#general-remarks)
 - [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
-  * [Lashers | Default X Positioning](#lashers--default-x-positioning)
-  * [Revivers | Default X Positioning](#revivers--default-x-positioning)
-  * [Howlers | Separated Positioning \| 3 Tile Distance \| No Ark](#howlers--separated-positioning--3-tile-distance--no-ark)
+  * [Lashers | Default X Positioning \| 2 Tile Unit Distance](#lashers--default-x-positioning--2-tile-distance)
+  * [Revivers | Default X Positioning \| 2 Tile Unit Distance](#revivers--default-x-positioning--2-tile-distance)
+  * [Howlers | Separated Positioning \| 3 Tile Unit Distance \| No Ark](#howlers--separated-positioning--3-tile-distance--no-ark)
 - [Closing Words](#closing-words)
 
 ---
@@ -139,7 +139,7 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 ---
 
-### Lashers | Default X Positioning
+### Lashers | Default X Positioning | 2 Tile Unit Distance
 
 ![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
@@ -156,12 +156,12 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 ---
 
-### Revivers | Default X Positioning
+### Revivers | Default X Positioning | 2 Tile Unit Distance
 
 ![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
 #### `Description`
-- Refer to [Lashers \| Default X Positioning](#lashers--default-x-positioning) ( *similar setup* ).
+- Refer to [Lashers \| Default X Positioning](#lashers--default-x-positioning--2-tile-distance) ( *similar setup* ).
 
 ---
 

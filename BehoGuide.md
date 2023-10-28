@@ -172,7 +172,7 @@
   - **[ `Ningal/Parker + Ark/Mirage/... + Shield-All Barrier` ]**
     * **Shielding = key**.
     * **High Energy Ability ( *=> better shielding* ) = key**.
-    * _`Parker` = recommended for higher level behos* | *requires sufficient command capability_.
+    * _`Parker` = recommended for higher level behos_ | _requires sufficient command capability_.
     * _`Mirage` or any well balanced and damage outputting vehicle = recommended for `Howlers`_.
   - **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
     * **Mighty Shielding = key**.
@@ -184,9 +184,9 @@
           * _Rather spend upgrade tokens on Hero Talents `Battlefield Rationing` and/or `Self-Defense Awareness`._
   - **[ `Vito + Tanking Vehicle + Repair Drone` ]**
     * **A lot of bonus things = key**.
-      * *Highest troop count = useful for repairs and survivability*.
-      * *Increased support weapon dmg and recovery for all units*.
-      * *Additional repairs for all units*.
+      * _Highest troop count = useful for repairs and survivability_.
+      * _Increased support weapon dmg and recovery for all units_.
+      * _Additional repairs for all units_.
 - **[ `Ninurta` Build ]**
   * **[ `Ninurta + Bishop + Repair(-All) Drone` ]**
     * **`Ninurta` = Fair amount and frequent repairs for all units = key**.

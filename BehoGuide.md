@@ -8,7 +8,7 @@
 - [Formation Positioning](#formation-positioning)
   * [Lashers | Default X Positioning](#lashers--default-x-positioning)
   * [Revivers | Default X Positioning](#revivers--default-x-positioning)
-  * [Howlers | Separated X Positioning](#howlers--separated-x-positioning)
+  * [Howlers | Separated X Positioning](#howlers--separated-x-positioning--3-tile-distance--no-ark)
 - [Closing Words](#closing-words)
 
 ---
@@ -38,6 +38,9 @@
     * Keep the following difference in mind:
       * `Repair/Shield <Effect> Increase`: *for unit **self** repairs/shields only*.
       * `Repair/Shield <Received> Increase`: *for repairs/shields **received from other units***.
+  * **Special vehicle accessories**.
+    * Look out for and equip vehicle accessories that have added stats beneficial to a specific vehicle.
+      * Overview of special accessories: `Vehicle Analysis Building` > *click* > `Rewards Preview` ( *bottom left icon* )
 - **Experiment yourself** and copy successful working lineups & advice/feedback from other players.
 - **Make minor adjustments only if a formation is nearly there**.
   * *Any small change could make a huge difference in outcome*.
@@ -51,44 +54,81 @@
 
 ## Formation Composition
 
+*Note in advance: The following are well tested combinations and therefore enlisted as a starting point.
+Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.*
+
 ### Advised Must-Haves
-- **[ `Smith + Crimson + Diffusion Bomb` ]**
-  * **Damage = key**.
-  * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
-- **[ `Flora + Spotlight + Repair-All Field` ]**
-  * **Energy Ability ( *better repairs* ) = key**.
-  * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
-  * *Replace `Spotlight` with an alternative nuclear vehicle with lots of Energy Ability if needed for certain hero requirements.*
-- **[ `Ningal + Ark + Shield-All Barrier` ]**
-  * **Shielding = key**.
-  * *Shield providing alternative: `Parker`*.
-- **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
-  * **Mighty Shielding = key**.
-- **[ `Vito + Tanking Vehicle + Repair Drone` ]**
-  * **A lot of bonus things = key**.
+- **[ `Ningal + Anunnaki` Build ]**
+  - **[ `Smith + Crimson + Diffusion Bomb` ]**
+    * **Damage = key**.
+    * *Better alternatives for `Smith` later on in season ( due to increased command cap )*.
+  - **[ `Flora + Spotlight + Repair-All Field` ]**
+    * Reasons for mentioning Spotlight:
+      * **High Energy Ability ( *=> better repairs* ) = key**.
+      * ***+ Additional damage & debuff as a bonus***.
+      * *Replace `Spotlight` with an alternative vehicle with lots of Energy Ability if needed.*
+    * *Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`*.
+  - **[ `Ningal/Parker + Ark/Mirage/... + Shield-All Barrier` ]**
+    * **Shielding = key**.
+    * **High Energy Ability ( *=> better shielding* ) = key**.
+    * *`Parker` = advised for higher level behos* | *requires sufficient command capability*.
+    * *`Mirage` or any well balanced and damage outputting vehicle = recommended for Howlers*.
+  - **[ `Anunnaki + Tanking Vehicle + Repair Drone` ]**
+    * **Mighty Shielding = key**.
+      * [ **Note Of Interest** ]
+        * **Mighty Shield =/= Regular Shield.**
+          * Mighty Shield = Takes away all damage from a single behemoth hit ( *counts for normal as well as aoe attacks* ).
+          * Regular Shield = Takes away some damage from a single behemoth hit, but in most cases not all.
+        * Unless `Anunnaki` is used as a ( *regular* ) shield providing unit, there is no need to increase its `Shield Expert` Hero Talent.
+          * *Rather spend upgrade tokens on Hero Talents `Battlefield Rationing` and/or `Self-Defense Awareness`.*
+  - **[ `Vito + Tanking Vehicle + Repair Drone` ]**
+    * **A lot of bonus things = key**.
+      * *Highest troop count = useful for repairs and survivability*.
+      * *Increased support weapon dmg and recovery for all units*.
+      * *Additional repairs for all units*.
+- **[ `Ninurta` Build ]**
+  * **[ `Ninurta + Bishop + Repair(-All) Drone` ]**
+    * **`Ninurta` = Fair amount and frequent repairs for all units = key**.
+    * **`Bishop` = Huge amount of stacked Fallout damage over time = key**.
+      * ***Downside: Can only be used as a single Utu hero in formation*** ( *1 or less Utu requirement* ).
+        * *Not combinable with [ `Ningal + Anunnaki` ] heroes*. 
+  * **[ `Lindsay + (f.e.) Spotlight + Electric Spark/Shock Grenades` ]**
+    * **Huge decreased behemoth aoe recharge time = key**.
+  * + *Any of the previous combos mentioned and/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal` and/or `Anunnaki`*.
 
 ### General Remarks
-- Do **NOT** count out `Reverb`/`Stego` as tanking units.
+- **Make sure all tanking units get focused by behemoth = key element for survivability ( *besides fair amount of repairs & shielding* )**.
+  * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
+  * If a behemoth focuses mostly on but a single unit ( that can't handle its damage ):
+    * Experiment f.e. with a higher vehicle threat level on the other ( *preferably* ) tanking unit(s).
+- **Do NOT count out `Reverb`/`Stego` as tanking units**.
   * *For me picking Reverb over Siren made the difference between loss and win*.
-  * *I ignore `Fortress` vehicle because I believe Reverb and Stego are always the better choice*.
-- At least for me, a [ `Ningal + Anunnaki` ] setup beats a [ `Ninurta` ] setup.
-  * *Quoting Exadon, the key in a `Ninurta` build is [ `Lindsay + Electric Spark` ]*.
-  * My ( *current* ) point of view on `Ninurta`:
-    - Good hero, provides fair amount and frequent repairs for all.
-    - Disables vehicle default and special shots but spits damage based 350% of vehicle dmg to surrounding foes within 5 tiles.
-    - Biggest downside imo:
-      * Can only be used as a single Utu hero in formation ( *1 or less Utu requirement* ).
-      * Not combinable with [ `Ningal + Anunnaki` ] setup.
+  * *Ignoring `Fortress` vehicle because ( at least for me ) Reverb and Stego are the better choice*.
+  * *In fact: do not count out any hero/vehicle/drone when experimenting*.
+- **Drone alternative(s) for any of the tanking units**:
+  - **[ `Tidal Reactor` ]**
+    * *Requires sufficient repairing and shielding of tanking hero by other units to recompensate the lack of a self repair drone*.
+    * *Advised for higher level behos*.
+    * *Personally, my current go-to*.
+  - **[ `GN Shield` ]**
+    * Single vehicle shielding + additional damage decrease for a few seconds.
+    * *Personally, I've used this a few times due to requirement constraints during early season*.
+    * *Nevertheless, I'd prefer `Tidal Reactor` when equally upgraded and if tanking unit can handle the behemoth damage*.
+  - **[ `Laser Eyes - Mirror Space` ]** (?)
+    * Possibly | Untested | Feedback Welcome.
+    * *Personally, I'd still prefer `Tidal Reactor` when equally upgraded*.
 - Since a composition takes into account many different factors ( *heroes owned* | *amount of upgrades* | *levels* | *command cap* | ... ):
   * Details in a composition that don't quite work out for another, may still work out for you and/or vice versa.
-    * *This is where the experimental and 'informing yourself' part comes in*.
-  * For different ideas/examples on ( *proven* ) formation compositions, check the in-game Behemoth Kill Rankings.
+    * *This is where the experimental and 'inform yourself' part comes in*.
+  * For different ideas/examples on ( *proven* ) formation compositions:
+    * Check the in-game Behemoth Kill Rankings in chat window and/or First Victory Rankings in Grod Trials.
+    * Ask in-game and/or on Discord.
 
 ---
 
 ## Formation Positioning
 
-*Note in advance: I'd have taken Beho Trial screenshots for better grid view purposes, although I can't enter at the moment since current max level has been reached*. *Screenshots with a better grid view will be added later on.*
+*Note in advance: Screenshots with a better grid view will be added gradually over time.*
 
 ---
 
@@ -97,7 +137,7 @@
 ![Default X Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
 
 #### `Description`
-- **Exactly 2 spots in between all units**.
+- **Exactly 2 tiles in between all units**.
 - **Ark Shield encapsulates all other units**.
   * = *Positioned right in the middle of all other units*.
   * **Time the popping of the Ark Shield well**.
@@ -105,7 +145,7 @@
 #### `General Remarks`
 - **Default X Positioning works for `Lashers` as well as `Revivers`**.
 - **`Howlers` require a minor positioning change for tanking units in order for troops to survive**.
-  * *[See further on](#howlers--separated-x-positioning) for more details*.
+  * *[See further on](#howlers--separated-x-positioning--3-tile-distance--no-ark) for more details*.
 
 ---
 
@@ -118,16 +158,17 @@
 
 ---
 
-### Howlers | Separated X Positioning
+### Howlers | Separated X Positioning | 3 Tile Distance | No Ark
 
-![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler.png)
+![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance).png)
 
 #### `Description`
-- **Separate both tankers** ( ***minimum 3 spots in between*** ).
-  * *While the Ark Shield won't reach, the Howler hitting them with aoe won't damage Ark nor other units*.
-- **Ark should (*still*) encapsulate other 2 less tanking units**.
-  * Depending on formation, save your Ark Shield. Only pop if Howler attacks Ark or any of the damage dealers for a second time.
-    * In other words: **Ark Shield on Howlers = panic trigger only** ( & ***keep in mind, it won't reach tankers*** ).
+- **Separate ALL units** ( ***minimum 3 tiles in between*** ).
+  * Reason: The AOE of the Howler reaches . 
+- **Do NOT use `Ark`**.
+  * `Ark` Shield reaches only within 2 tiles ( *won't reach any of the other units* ).
+  * Replace `Ark` with a damage dealing vehicle that suits the hero combined with it.
+    * *F.e. `Parker + Mirage + Shield Barrier`*.
 
 ---
 

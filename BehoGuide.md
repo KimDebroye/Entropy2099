@@ -2,10 +2,16 @@
 
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
+<br />
+
 ## Disclaimer
 
 > - This document/guide is prone to change based on feedback and/or experiments conducted by others & self.<br />
 > - This document/guide may contain incorrect statements, hence feedback is always welcome.
+
+---
+
+<br />
 
 ## Table of Contents
 - [General Remarks](#general-remarks)
@@ -17,6 +23,8 @@
 - [Closing Words](#closing-words)
 
 ---
+
+<br />
 
 ## General Remarks
 - **Nuclear all the way for behos**.
@@ -61,10 +69,14 @@
 
 ---
 
+<br />
+
 ## Formation Composition
 
 > - The following are well tested combinations and therefore enlisted as a starting point.<br />
 > - Nevertheless, mixed/alternative combinations of enlisted ( _as well as unlisted_ ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
+
+---
 
 ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**
@@ -112,6 +124,8 @@
   * \+ _Any of the previous combos mentioned._
     * _And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal`, `Anunnaki` or any other Utu hero_.
 
+---
+
 ### General Remarks
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( _besides fair amount of repairs & shielding_ )**.
   * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
@@ -142,11 +156,15 @@
 
 ---
 
+<br />
+
 ## Formation Positioning
 
 > - Screenshots with a better grid view will be added gradually over time.
 
 ---
+
+<br />
 
 ### Lashers | Default Positioning | 2 Tile Unit Distance
 
@@ -158,6 +176,7 @@
   * = _Positioned right in the middle of all other units_.
   * **Time the popping of the Ark Shield well**.
     * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
+
 #### `General Remarks`
 - **Default Positioning works for `Lashers` as well as `Revivers`**.
 - **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
@@ -165,6 +184,8 @@
   * _[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details_.
 
 ---
+
+<br />
 
 ### Revivers | Default Positioning | 2 Tile Unit Distance
 
@@ -175,6 +196,8 @@
 - **Using `Ark` Shielding is strongly recommended for `Revivers`**.
 
 ---
+
+<br />
 
 ### Howlers | Separated Positioning | 3 Tile Unit Distance | No Ark
 
@@ -190,6 +213,8 @@
     * _F.e. `Parker + Mirage + Shield Barrier`_.
 
 ---
+
+<br />
 
 ## Closing Words
 > Feel free to provide feedback/corrections/details/... if and where needed.

@@ -4,8 +4,8 @@
 
 ## General Reminder
 
-> ⦿ This document/guide is prone to change based on feedback and/or experiments conducted by others & self.<br />
-> ⦿ This document/guide may contain incorrect statements, hence feedback is always welcome.
+> - This document/guide is prone to change based on feedback and/or experiments conducted by others & self.<br />
+> - This document/guide may contain incorrect statements, hence feedback is always welcome.
 
 ## Table of Contents
 - [General Remarks](#general-remarks)
@@ -60,9 +60,8 @@
 
 ## Formation Composition
 
-> ⦿ The following are well tested combinations and therefore enlisted as a starting point.<br />
-> ⦿ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons
-  can be experimented with and may even yield a better outcome.
+> - The following are well tested combinations and therefore enlisted as a starting point.<br />
+> - Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
 
 ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**
@@ -136,7 +135,7 @@
 
 ## Formation Positioning
 
-> ⦿ Screenshots with a better grid view will be added gradually over time.
+> - Screenshots with a better grid view will be added gradually over time.
 
 ---
 

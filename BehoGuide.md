@@ -104,7 +104,7 @@
         * *Not combinable with [ `Ningal + Anunnaki` ] heroes*. 
   * **[ `Lindsay + (f.e.) Spotlight + Electric Spark/Shock Grenades` ]**
     * **Huge decreased behemoth aoe recharge time = key**.
-  * + *Any of the previous combos mentioned.
+  * \+ *Any of the previous combos mentioned.*
     * *And/or other ones listed in f.e. First Victory Ranking, with the exception of `Ningal` and/or `Anunnaki`*.
 
 ### General Remarks

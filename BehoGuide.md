@@ -167,7 +167,7 @@
     * Reasons for mentioning Spotlight:
       * **High Energy Ability ( *=> better repairs* ) = key**.
       * _**+ Additional damage & debuff as a bonus**_.
-      * _Replace `Spotlight` with an alternative vehicle with lots of Energy Ability if needed._
+      * _Replace `Spotlight` with an alternative vehicle with lots of Energy Ability if needed, f.e. `Dragonfly`._
     * _Less optimal alternative for `Repair-All Field` = `(purple) Emergency Repairs`_.
   - **[ `Ningal/Parker + Ark/Mirage/... + Shield-All Barrier` ]**
     * **Shielding = key**.

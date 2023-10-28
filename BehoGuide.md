@@ -65,7 +65,7 @@
   * Defensive drone(s) can be replaced with damage dealing drone(s) for a slight speedup.
   * Defensive vehicle(s) can be replaced with damage dealing vehicle(s) for a slight speedup.
 - ( _Optional_ ) _If that little extra shielding would make the difference, ask other alliance members to help with additional Ark shielding_.
-  * _Works on battlefield only_ ( _does not work in Grod Trials_ ).
+  * _Works on battle field only_ ( _does not work in Grod Trials_ ).
   * _May come in handy if that little extra is needed for f.e. getting Hunter License Achievements_.
 
 ---

@@ -44,11 +44,10 @@
 - **Experiment yourself** and copy successful working lineups & advice/feedback from other players.
   * **Make minor adjustments only if a formation is nearly there**.
     * *Any small change could make a huge difference in outcome*.
-    * *If that little extra shielding would make the difference, ask other players to help with additional Ark shielding*.
 - ( *Optional* ) At the point Behos become more forgiving for a formation:
   * Defensive drone(s) can be replaced with damage dealing drone(s) for a slight speedup.
   * Defensive vehicle(s) can be replaced with damage dealing vehicle(s) for a slight speedup.
-    * *Hence why you'll notice me using [ `Vito` + `Fission Walker` ] in screenshots instead of a tankier vehicle*.
+- ( *Optional* | *Battle Field Only* )*If that little extra shielding would make the difference, ask other players to help with additional Ark shielding*.
 
 ---
 

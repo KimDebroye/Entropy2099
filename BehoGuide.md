@@ -3,10 +3,12 @@
 ![Entropy 2099 | Behemoths | Tips & Tricks](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Behemoths.png)
 
 ## General Reminder
+
 ```
 ⦿ This document/guide is prone to change based on feedback and/or experiments conducted by others & self.
 ⦿ This document/guide may contain incorrect statements, hence feedback is always welcome.
 ```
+
 ## Table of Contents
 - [General Remarks](#general-remarks)
 - [Formation Composition](#formation-composition)
@@ -60,8 +62,10 @@
 
 ## Formation Composition
 
-*Note in advance: The following are well tested combinations and therefore enlisted as a starting point.
-Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.*
+```
+⦿ The following are well tested combinations and therefore enlisted as a starting point.
+⦿ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
+```
 
 ### Advised Must-Haves
 - **[ `Ningal + Anunnaki` Build ]**
@@ -135,7 +139,9 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 
 ## Formation Positioning
 
-*Note in advance: Screenshots with a better grid view will be added gradually over time.*
+```
+⦿ Screenshots with a better grid view will be added gradually over time.
+```
 
 ---
 

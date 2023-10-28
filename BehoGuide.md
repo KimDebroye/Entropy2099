@@ -161,7 +161,7 @@ Nevertheless mixed combinations of enlisted ( as well as unlisted ) heroes/vehic
 ![Default X Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
 
 #### `Description`
-- Refer to [Lashers \| Default X Positioning](#lashers--default-x-positioning--2-tile-unit-distance) ( *similar setup* ).
+- Refer to [Lashers \| Default X Positioning \ | 2 Tile Unit Distance](#lashers--default-x-positioning--2-tile-unit-distance) ( *similar setup* ).
 
 ---
 

@@ -32,7 +32,7 @@
 - Difficulty scale:
   * (_Easy_) Lashers | Revivers | Howlers  (_Tough_)
 - Behemoths have different element attributes ( _thermal_ | _electro-magnetic_ | _nuclear_ ).
-  * On the battle field, prioritize the type that is weak against the element of your formation.
+  * _On battle field, prioritize the type that is weak against the element of your formation_.
 - Use Beho Trials as a testing ground not to waste troops on field.
 - Required:
   * **2 strong tanking units**.

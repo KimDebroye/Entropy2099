@@ -68,6 +68,13 @@
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
     * *Possible alternatives for `Smith` later on in season ( due to increased command cap )*.
+      * Planned | To be tested/experimented with:
+        * `Elena`
+          * *Basically the Flora for Thermals ( added damage with the applied Thermal Incineration effects from f.e. Spotlight )*.
+          * *Behemoth damage reduction ( `Smith` has a fixed behemoth damage reduction, while `Elena`'s damage reduction is better for formation but has to be triggered )*.
+        * `Orne` | `Marchioli`
+          * *Huge damage dealers*.
+          * *Compared to `Elena`, less interesting bonus abilities beho wise at first sight.*
   - **[ `Flora + Spotlight + Repair-All Field` ]**
     * Reasons for mentioning Spotlight:
       * **High Energy Ability ( *=> better repairs* ) = key**.
@@ -149,6 +156,7 @@
   * = *Positioned right in the middle of all other units*.
   * **Time the popping of the Ark Shield well**.
     * *I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure*.
+  * **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
 #### `General Remarks`
 - **Default X Positioning works for `Lashers` as well as `Revivers`**.
 - **`Howlers` require a positioning and formation change for units in order for troops to survive**.

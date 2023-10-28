@@ -47,7 +47,7 @@
   * **Special vehicle accessories**.
     * Look out for and equip vehicle accessories that have added stats beneficial to a specific vehicle.
       * Overview of special accessories: `Vehicle Analysis Building` > *click* > `Rewards Preview` ( *bottom left icon* )
-- **Experiment yourself** and copy successful working lineups & advice/feedback from other players.
+- **Experiment yourself** and work with successful working lineups & advice/feedback from other players.
   * **Make minor adjustments only if a formation is nearly there**.
     * *Any small change could make a huge difference in outcome*.
 - ( *Optional* ) At the point Behos become more forgiving for a formation:

@@ -15,11 +15,11 @@
 
 > ## Table of Contents
 - [General Remarks](#general-remarks)
-- [Formation Composition](#formation-composition)
 - [Formation Positioning](#formation-positioning)
   * [Lashers | Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance)
   * [Revivers | Default Positioning \| 2 Tile Unit Distance](#revivers--default-positioning--2-tile-unit-distance)
   * [Howlers | Separated Positioning \| 3 Tile Unit Distance \| No Ark](#howlers--separated-positioning--3-tile-unit-distance--no-ark)
+- [Formation Composition](#formation-composition)
 - [Closing Words](#closing-words)
 
 ---
@@ -66,6 +66,77 @@
 - ( _Optional_ ) _If that little extra shielding would make the difference, ask other alliance members to help with additional Ark shielding_.
   * _Works on battlefield only_ ( _does not work in Grod Trials_ ).
   * _May come in handy if that little extra is needed for f.e. getting Hunter License Achievements_.
+
+---
+
+<br />
+
+> ## Formation Positioning
+
+> - Screenshots with a better grid view will be added gradually over time.<br />
+
+---
+
+<br />
+
+> ### General Positioning Notes
+
+- The units in screenshots below are positioned in an X-like shape.
+- The X position is merely an example.
+- On battle field, an X position isn't always recommended.
+  * Sometimes f.e. a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
+  * _Personally, I do use X positioning as a default placement ( even on battle field )_.
+    * _Setting up units near a beho becomes an automatism_.
+    * _It's easy to adjust/do variations based on it keeping in mind the recommended unit distances_.
+---
+
+<br />
+
+> ### Lashers | Default Positioning | 2 Tile Unit Distance
+
+![Default Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
+
+> #### `Description`
+- **Exactly 2 tiles in between all units**.
+- **`Ark` Shield encapsulates all other units**.
+  * = _Positioned right in the middle of all other units_.
+  * **Time the popping of the `Ark` Shield well**.
+    * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
+
+> #### `General Remarks`
+- **Default Positioning works for `Lashers` as well as `Revivers`**.
+- **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
+- **`Howlers` require a positioning and formation change in order for units to survive**.
+  * _[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details_.
+
+---
+
+<br />
+
+### Revivers | Default Positioning | 2 Tile Unit Distance
+
+![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
+
+> #### `Description`
+- Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
+- **Using `Ark` Shielding is strongly recommended for `Revivers`**.
+
+---
+
+<br />
+
+### Howlers | Separated Positioning | 3 Tile Unit Distance | No Ark
+
+![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
+
+> #### `Description`
+- **Separate ALL units** ( ***minimum 3 tiles in between*** ).
+  * Reason: The AOE of the Howler reaches up to 3 tiles.
+    * _If one unit gets hit by aoe, other units won't ( take damage )_.
+- **Avoid using `Ark`**.
+  * `Ark` Shield only reaches within 2 tiles ( *won't reach any of the other units, thereby losing its main benefit* ).
+  * Replace `Ark` with a damage dealing vehicle that suits the hero combined with it.
+    * _F.e. `Parker + Mirage + Shield Barrier`_.
 
 ---
 
@@ -153,77 +224,6 @@
   * For different ideas/examples on ( *proven* ) formation compositions:
     * Check the in-game Behemoth Kill Rankings in chat window and/or First Victory Rankings in Grod Trials.
     * Ask in-game and/or on Discord.
-
----
-
-<br />
-
-> ## Formation Positioning
-
-> - Screenshots with a better grid view will be added gradually over time.<br />
-
----
-
-<br />
-
-> ### General Positioning Notes
-
-- The units in screenshots below are positioned in an X-like shape.
-- The X position is merely an example.
-- On battle field, an X position isn't always recommended.
-  * Sometimes f.e. a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
-  * _Personally, I do use X positioning as a default placement ( even on battle field )_.
-    * _Setting up units near a beho becomes an automatism_.
-    * _It's easy to adjust/do variations based on it keeping in mind the recommended unit distances_.
----
-
-<br />
-
-> ### Lashers | Default Positioning | 2 Tile Unit Distance
-
-![Default Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
-
-> #### `Description`
-- **Exactly 2 tiles in between all units**.
-- **`Ark` Shield encapsulates all other units**.
-  * = _Positioned right in the middle of all other units_.
-  * **Time the popping of the `Ark` Shield well**.
-    * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
-
-> #### `General Remarks`
-- **Default Positioning works for `Lashers` as well as `Revivers`**.
-- **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
-- **`Howlers` require a positioning and formation change in order for units to survive**.
-  * _[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details_.
-
----
-
-<br />
-
-### Revivers | Default Positioning | 2 Tile Unit Distance
-
-![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
-
-> #### `Description`
-- Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
-- **Using `Ark` Shielding is strongly recommended for `Revivers`**.
-
----
-
-<br />
-
-### Howlers | Separated Positioning | 3 Tile Unit Distance | No Ark
-
-![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
-
-> #### `Description`
-- **Separate ALL units** ( ***minimum 3 tiles in between*** ).
-  * Reason: The AOE of the Howler reaches up to 3 tiles.
-    * _If one unit gets hit by aoe, other units won't ( take damage )_.
-- **Avoid using `Ark`**.
-  * `Ark` Shield only reaches within 2 tiles ( *won't reach any of the other units, thereby losing its main benefit* ).
-  * Replace `Ark` with a damage dealing vehicle that suits the hero combined with it.
-    * _F.e. `Parker + Mirage + Shield Barrier`_.
 
 ---
 

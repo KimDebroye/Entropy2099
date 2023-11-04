@@ -156,7 +156,7 @@
 - **[ `Ningal + Anunnaki` Build ]**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
-    * _Planned | To be tested/experimented with alternatives for `Smith` later on in season ( due to increased command cap )_.
+    * _( Some of the ) Alternatives for `Smith` later on in season ( due to increased command cap )_.
       * `Elena`
         * _Basically the Flora for Thermals ( added damage with the applied Thermal Incineration effects from f.e. Spotlight )_.
         * _Behemoth damage reduction ( `Smith` has a fixed behemoth damage reduction, while `Elena`'s damage reduction is better for formation but has to be triggered )_.

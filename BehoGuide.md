@@ -206,7 +206,7 @@
 > ##### 1.2.3.1 | `X Formation`
 
 - **Not recommended in any way**.
-  * For best results, **always** use an `Ark`less [Star Formation](#1222--star-formation) setup.
+  * For best results, **always** use an `Ark`less [Star Formation](#1232--star-formation) setup.
 
 ---
 

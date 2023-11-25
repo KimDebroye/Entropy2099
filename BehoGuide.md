@@ -181,7 +181,7 @@
     * = _Positioned right in the middle of all other units_.
     * **Time the popping of the `Ark` Shield well**.
       * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
-  * _Using `Ark` is strongly recommended for `Revivers` ( especially during early stages, depending on formation strength maybe less later on )_.
+  * _Using `Ark` is strongly recommended for `Revivers` (especially during early stages, depending on formation strength maybe less later on)_.
 - _This layout works as well for `Lashers`_.
 
 ---

@@ -14,19 +14,31 @@
 <br />
 
 > ## Table of Contents
-- [General Remarks](#general-remarks)
-- [Formation Positioning](#formation-positioning)
-  * [Lashers | Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance)
-  * [Revivers | Default Positioning \| 2 Tile Unit Distance](#revivers--default-positioning--2-tile-unit-distance)
-  * [Howlers | Separated Positioning \| 3 Tile Unit Distance \| No Ark](#howlers--separated-positioning--3-tile-unit-distance--no-ark)
-- [Formation Composition](#formation-composition)
-- [Closing Words](#closing-words)
+- [0 \| General Remarks](#0--general-remarks)
+- [1 \| Formation Positioning](#1--formation-positioning)
+  * [1.1 \| General Positioning Notes](#11--positioning-in-a-nutshell)
+  * [1.2 \| Positioning Layouts](#12--positioning-layouts)
+    * [1.2.1 \| Lashers \| 2 Tile Unit Distance](#121--lashers--2-tile-unit-distance)
+      * [1.2.1.1 \| X Formation](#1211--x-formation)
+      * [1.2.1.2 \| Star Formation](#1212--star-formation)
+    * [1.2.2 \| Revivers \| 2 Tile Unit Distance](#122--revivers--2-tile-unit-distance)
+      * [1.2.2.1 \| X Formation](#1221--x-formation)
+      * [1.2.2.2 \| Star Formation](#1222--star-formation)
+    * [1.2.3 \| Howlers \| 3 Tile Unit Distance \| No Ark](#123--howlers--3-tile-unit-distance--no-ark)
+      * [1.2.3.1 \| X Formation](#1231--x-formation)
+      * [1.2.3.2 \| Star Formation](#1232--star-formation)
+- [2 \| Formation Composition](#2--formation-composition)
+  * [2.1 \| Advised Must-Haves/Builds](#21--advised-must-havesbuilds)
+    * [2.1.2 \| `Ningal + Anunnaki` Build](#211--ningal--anunnaki-build)
+    * [2.1.2 \| `Ninurta` Build](#212--ninurta-build)
+  * [2.2 \| General Formation Notes](#22--general-formation-notes)
+- [3 \| Closing Words](#3--closing-words)
 
 ---
 
 <br />
 
-> ## General Remarks
+> ## 0 | General Remarks
 - **Nuclear all the way for behos**.
   * _A few thermal/electro-magnetic exceptions are possible and even advised_.
 - Difficulty scale:
@@ -41,7 +53,7 @@
   * **3 accompanying units** that focus on:
     * (Additional) **damage = key**.
     * (Additional) **repairs and shielding = key**.
-    * (Additional) tanking.
+    * (Additional) tanking ( = _backup tanker_ ).
 - Focus on:
   * **Vehicle & Unit enhancing upgrades in base**.
   * **Vehicle Threat Level**.
@@ -72,7 +84,7 @@
 
 <br />
 
-> ## Formation Positioning
+> ## 1 | Formation Positioning
 
 > - Screenshots with a better grid view will be added gradually over time.<br />
 
@@ -80,70 +92,125 @@
 
 <br />
 
-> ### General Positioning Notes
+> ### 1.1 | Positioning in a Nutshell
 
-- The units in screenshots below are positioned in an X-like shape.
-- The X position is merely an example.
-- On battle field, an X position isn't always recommended.
-  * Sometimes f.e. a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
-  * _Personally, I do use X positioning as a default placement ( even on battle field )_.
-    * _Setting up units near a beho becomes an automatism_.
-    * _It's easy to adjust/do variations based on it keeping in mind the recommended unit distances_.
----
-
-<br />
-
-> ### Lashers | Default Positioning | 2 Tile Unit Distance
-
-![Default Positioning \| Lasher](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
-
-> #### `Description`
-- **Exactly 2 tiles in between all units**.
-- **`Ark` Shield encapsulates all other units**.
-  * = _Positioned right in the middle of all other units_.
-  * **Time the popping of the `Ark` Shield well**.
-    * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
-
-> #### `General Remarks`
-- **Default Positioning works for `Lashers` as well as `Revivers`**.
-- **While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`**.
-- **`Howlers` require a positioning and formation change in order for units to survive**.
-  * _[See further on](#howlers--separated-positioning--3-tile-unit-distance--no-ark) for more details_.
+- There are two common layouts to position your units:
+  * **[ 1) `Positioning in an X-like shape`. ]**
+    * Advised when using `Ark` vehicle in order to be able to cover all or most units with Ark vehicle,<br />
+    with the exception of `Howlers`.
+  * **[ 2) `Positioning in a Star-like shape`. ]**
+    * **Mandatory setup for `Howlers`**.
+    * Recommended for `Lashers` & `Revivers` when/if no longer using `Ark` vehicle ( = _easier setup_ ).
+    * Requires tanky units for higher beho levels.
+      * _Default to X-like shape positioning if that little extra defense is needed_.
+- No matter the layout chosen, there are key unit tile distances that need to be respected due to beho AOE.<br />
+  **In order to maximize survivability**:
+  * **`Lashers` = 2 unit tile difference** between units.
+    * **Exactly 2 tiles in between units when using Ark** for `Ark` coverage.
+    * **At minimum 2 tiles in between units when not using `Ark`**.
+  * **`Revivers` = 2 unit tile difference** between units.
+    * **Exactly 2 tiles in between units when using Ark** for `Ark` coverage.
+    * **At minimum 2 tiles in between units when not using `Ark`**.
+  * **`Howlers` = 3 unit tile difference** between units.
+    * **`Always` exactly 3 tiles in between units**.
+    * _Using `Ark` not recommended for `Howlers`_.
+- Sometimes a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
+  * _In case this happens, try moving back the repositioned unit at once_.
+- At some point, setting up units near a beho becomes an automatism.
+  * _It's easy to adjust/do variations based on it keeping in mind the recommended unit distances_.
 
 ---
 
 <br />
 
-> ### Revivers | Default Positioning | 2 Tile Unit Distance
-
-![Default Positioning \| Reviver](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
-
-> #### `Description`
-- Refer to [Lashers \| Default Positioning \| 2 Tile Unit Distance](#lashers--default-positioning--2-tile-unit-distance) ( *similar setup* ).
-- **Using `Ark` Shielding is strongly recommended for `Revivers`**.
+> ### 1.2 | Positioning Layouts
 
 ---
 
 <br />
 
-> ### Howlers | Separated Positioning | 3 Tile Unit Distance | No Ark
+> #### 1.2.1 | Lashers | 2 Tile Unit Distance
 
-![Separated X Positioning \| Howler](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Separated%20X%20Positioning%20-%20Howler%20(%203%20Tile%20Distance%20).png)
+---
 
-> #### `Description`
-- **Separate ALL units** ( ***minimum 3 tiles in between*** ).
-  * Reason: The AOE of the Howler reaches up to 3 tiles.
+> ##### 1.2.1.1 | `X Formation`
+
+![Lasher \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
+
+- **Strongly recommended when using Ark**:
+  * **Exactly 2 tiles in between all units**.
+  * **`Ark` Shield encapsulates all other units**.
+    * = _Positioned right in the middle of all other units_.
+    * **Time the popping of the `Ark` Shield well**.
+      * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
+  * _While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`_.
+- _This layout works as well for `Revivers`_.
+
+> ##### 1.2.1.2 | `Star Formation`
+
+![Lasher \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Lasher%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png)
+
+- **At minimum 2 tiles in between all units**.
+  * _The screenshot shows a 3 tile distance in between all units, since this works for all beho types and thus is easier to use as a default._
+
+---
+
+<br />
+
+> #### 1.2.2 | Revivers | 2 Tile Unit Distance
+
+---
+
+> ##### 1.2.2.1 | `X Formation`
+
+![Reviver \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
+
+- **Strongly recommended when using Ark**:
+  * **Exactly 2 tiles in between all units**.
+  * **`Ark` Shield encapsulates all other units**.
+    * = _Positioned right in the middle of all other units_.
+    * **Time the popping of the `Ark` Shield well**.
+      * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
+  * _Using `Ark` is strongly recommended for `Revivers` ( especially during early stages, depending on formation strength maybe less later on )_.
+- _This layout works as well for `Lashers`_.
+
+> ##### 1.2.2.2 | `Star Formation`
+
+![Reviver \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Reviver%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png)
+
+- **At minimum 2 tiles in between all units**.
+  * _The screenshot shows a 3 tile distance in between all units, since this works for all beho types and thus is easier to use as a default._
+
+---
+
+<br />
+
+> #### 1.2.3 | Howlers | 3 Tile Unit Distance | No Ark
+
+---
+
+> ##### 1.2.3.1 | `X Formation`
+
+- **Not recommended in any way**.
+  * For best results, **always** use an `Ark`less [Star Formation](#1222--star-formation) setup.
+
+> ##### 1.2.3.2 | `Star Formation`
+
+![Howler \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Howler%20-%20Minimum%203%20Tile%20Distance%20-%20Star%20Layout.png)
+
+- **At minimum 3 tiles in between all units**.
+  * **Reason**: The AOE of the Howler reaches up to 3 tiles.
     * _If one unit gets hit by aoe, other units won't ( take damage )_.
 - **Avoid using `Ark`**.
-  * `Ark` Shield only reaches within 2 tiles ( *won't reach any of the other units, thereby losing its main benefit* ).
-  * Replace `Ark` with a damage dealing vehicle that suits the hero combined with it.
-    * _F.e. `Parker + Mirage + Shield Barrier`_.
+  * **Reason**: `Ark` Shield only reaches within 2 tiles ( *won't reach any of the other units, thereby losing its main benefit* ).
+  * Replace `Ark` with a vehicle that suits the hero and drone/weapon combined with it.
+    * _F.e. `Parker + Mirage/Spotlight/... + Shield Barrier`_.
 
 ---
 
 <br />
 
-> ## Formation Composition
+> ## 2 | Formation Composition
 
 > - The following are well tested combinations and therefore enlisted as a starting point.<br />
 > - Nevertheless, mixed/alternative combinations of enlisted ( _as well as unlisted_ ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
@@ -152,8 +219,13 @@
 
 <br />
 
-> ### Advised Must-Haves
-- **[ `Ningal + Anunnaki` Build ]**
+> ### 2.1 | Advised Must-Haves/Builds
+
+---
+
+<br />
+
+> #### 2.1.1 | **`Ningal + Anunnaki` Build**
   - **[ `Smith + Crimson + Diffusion Bomb` ]**
     * **Damage = key**.
     * _( Some of the ) Alternatives for `Smith` later on in season ( due to increased command cap )_.
@@ -163,6 +235,7 @@
       * `Orne` | `Marchioli`
         * _Huge damage dealers_.
         * _Compared to `Elena`, less interesting bonus abilities beho wise at first sight._
+        * _I personally went for `Orne` at higher beho levels_.
   - **[ `Flora + Spotlight + Repair-All Field` ]**
     * Reasons for mentioning Spotlight:
       * **High Energy Ability ( *=> better repairs* ) = key**.
@@ -187,7 +260,9 @@
       * _Highest troop count = useful for repairs and survivability_.
       * _Increased support weapon dmg and recovery for all units_.
       * _Additional repairs for all units_.
-- **[ `Ninurta` Build ]**
+
+> #### 2.1.2 | **`Ninurta` Build**
+  * _Considered the stronger build, albeit requires owning both `Ninurta` & `Bishop`_.
   * **[ `Ninurta + Bishop + Repair(-All) Drone` ]**
     * **`Ninurta` = Fair amount and frequent repairs for all units = key**.
     * **`Bishop` = Huge amount of stacked Fallout damage over time = key**.
@@ -202,7 +277,7 @@
 
 <br />
 
-> ### General Formation Notes
+> ### 2.2 | General Formation Notes
 - **Make sure all tanking units get focused by behemoth = key element for survivability ( _besides fair amount of repairs & shielding_ )**.
   * Distributing behemoth damage over multiple units provides time for each unit to be repaired/shielded.
   * If a behemoth focuses mostly on but a single unit ( _that can't handle its damage_ ):
@@ -234,7 +309,7 @@
 
 <br />
 
-> ## Closing Words
+> ## 3 | Closing Words
 > Feel free to provide feedback/corrections/details/... if and where needed.
 > This quick guide wouldn't have been possible without experimenting and earlier tips & tricks from others as well.
 > I merely recapped things a bit based on my own experiments and theirs.

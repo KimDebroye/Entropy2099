@@ -133,6 +133,8 @@
 
 ---
 
+<br />
+
 > ##### 1.2.1.1 | `X Formation`
 
 ![Lasher \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
@@ -145,6 +147,10 @@
       * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
   * _While using `Ark` isn't a must for `Lashers` it is however strongly recommended for `Revivers`_.
 - _This layout works as well for `Revivers`_.
+
+---
+
+<br />
 
 > ##### 1.2.1.2 | `Star Formation`
 
@@ -161,6 +167,8 @@
 
 ---
 
+<br />
+
 > ##### 1.2.2.1 | `X Formation`
 
 ![Reviver \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
@@ -173,6 +181,10 @@
       * _I usually pop it during the beho aoe prepping animation for f.e. Revivers, or a bit in advance to be sure_.
   * _Using `Ark` is strongly recommended for `Revivers` ( especially during early stages, depending on formation strength maybe less later on )_.
 - _This layout works as well for `Lashers`_.
+
+---
+
+<br />
 
 > ##### 1.2.2.2 | `Star Formation`
 
@@ -189,10 +201,16 @@
 
 ---
 
+<br />
+
 > ##### 1.2.3.1 | `X Formation`
 
 - **Not recommended in any way**.
   * For best results, **always** use an `Ark`less [Star Formation](#1222--star-formation) setup.
+
+---
+
+<br />
 
 > ##### 1.2.3.2 | `Star Formation`
 

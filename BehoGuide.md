@@ -4,7 +4,7 @@
 
 <br />
 
-> ## Disclaimer
+> ## `Disclaimer`
 
 > - This document/guide is prone to change based on feedback and/or experiments conducted by others & self.<br />
 > - This document/guide may contain incorrect statements, hence feedback is always welcome.
@@ -13,18 +13,18 @@
 
 <br />
 
-> ## Table of Contents
+> ## `Table of Contents`
 - [0 \| General Remarks](#0--general-remarks)
 - [1 \| Formation Positioning](#1--formation-positioning)
   * [1.1 \| General Positioning Notes](#11--positioning-in-a-nutshell)
   * [1.2 \| Positioning Layouts](#12--positioning-layouts)
-    * [1.2.1 \| Lashers \| 2 Tile Unit Distance](#121--lashers--2-tile-unit-distance)
+    * [1.2.1 \| `Lashers` \| 2 Tile Unit Distance](#121--lashers--2-tile-unit-distance)
       * [1.2.1.1 \| X Formation](#1211--x-formation)
       * [1.2.1.2 \| Star Formation](#1212--star-formation)
-    * [1.2.2 \| Revivers \| 2 Tile Unit Distance](#122--revivers--2-tile-unit-distance)
+    * [1.2.2 \| `Revivers` \| 2 Tile Unit Distance](#122--revivers--2-tile-unit-distance)
       * [1.2.2.1 \| X Formation](#1221--x-formation)
       * [1.2.2.2 \| Star Formation](#1222--star-formation)
-    * [1.2.3 \| Howlers \| 3 Tile Unit Distance \| No Ark](#123--howlers--3-tile-unit-distance--no-ark)
+    * [1.2.3 \| `Howlers` \| 3 Tile Unit Distance \| No Ark](#123--howlers--3-tile-unit-distance--no-ark)
       * [1.2.3.1 \| X Formation](#1231--x-formation)
       * [1.2.3.2 \| Star Formation](#1232--star-formation)
 - [2 \| Formation Composition](#2--formation-composition)
@@ -38,7 +38,7 @@
 
 <br />
 
-> ## 0 | General Remarks
+> ## `0 | General Remarks`
 - **Nuclear all the way for behos**.
   * _A few thermal/electro-magnetic exceptions are possible and even advised_.
 - Difficulty scale:
@@ -84,11 +84,13 @@
 
 <br />
 
-> ## 1 | Formation Positioning
+> ## `1 | Formation Positioning`
 
+<!--
 > - Screenshots with a better grid view will be added gradually over time.<br />
 
 ---
+-->
 
 <br />
 
@@ -137,7 +139,7 @@
 
 > ##### 1.2.1.1 | `X Formation`
 
-![Lasher \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png)
+<img src="https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Lasher.png" alt="Lasher | X Formation" width="680" />
 
 - **Strongly recommended when using Ark**:
   * **Exactly 2 tiles in between all units**.
@@ -154,7 +156,7 @@
 
 > ##### 1.2.1.2 | `Star Formation`
 
-![Lasher \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Lasher%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png)
+<img src="https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Lasher%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png" alt="Lasher | Star Formation" width="680" />
 
 - **At minimum 2 tiles in between all units**.
   * _The screenshot shows a 3 tile distance in between all units, since this works for all beho types and thus is easier to use as a default._
@@ -171,7 +173,7 @@
 
 > ##### 1.2.2.1 | `X Formation`
 
-![Reviver \| X Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png)
+<img src="https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Default%20X%20Positioning%20-%20Reviver.png" alt="Reviver | X Formation" width="680" />
 
 - **Strongly recommended when using Ark**:
   * **Exactly 2 tiles in between all units**.
@@ -188,7 +190,7 @@
 
 > ##### 1.2.2.2 | `Star Formation`
 
-![Reviver \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Reviver%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png)
+<img src="https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Reviver%20-%20Minimum%202%20Tile%20Distance%20-%20Star%20Layout.png" alt="Reviver | Star Formation" width="680" />
 
 - **At minimum 2 tiles in between all units**.
   * _The screenshot shows a 3 tile distance in between all units, since this works for all beho types and thus is easier to use as a default._
@@ -214,7 +216,7 @@
 
 > ##### 1.2.3.2 | `Star Formation`
 
-![Howler \| Star Formation](https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Howler%20-%20Minimum%203%20Tile%20Distance%20-%20Star%20Layout.png)
+<img src="https://github.com/KimDebroye/Entropy2099/blob/main/Assets/Beho%20Guide/Howler%20-%20Minimum%203%20Tile%20Distance%20-%20Star%20Layout.png" alt="Howler | Star Formation" width="680" />
 
 - **At minimum 3 tiles in between all units**.
   * **Reason**: The AOE of the Howler reaches up to 3 tiles.
@@ -228,7 +230,7 @@
 
 <br />
 
-> ## 2 | Formation Composition
+> ## `2 | Formation Composition`
 
 > - The following are well tested combinations and therefore enlisted as a starting point.<br />
 > - Nevertheless, mixed/alternative combinations of enlisted ( _as well as unlisted_ ) heroes/vehicles/weapons can be experimented with and may even yield a better outcome.
@@ -327,7 +329,7 @@
 
 <br />
 
-> ## 3 | Closing Words
+> ## `3 | Closing Words`
 > Feel free to provide feedback/corrections/details/... if and where needed.
 > This quick guide wouldn't have been possible without experimenting and earlier tips & tricks from others as well.
 > I merely recapped things a bit based on my own experiments and theirs.

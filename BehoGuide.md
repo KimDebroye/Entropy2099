@@ -114,7 +114,7 @@
     * **Exactly 2 tiles in between units when using Ark** for `Ark` coverage.
     * **At minimum 2 tiles in between units when not using `Ark`**.
   * **`Howlers` = 3 unit tile difference** between units.
-    * **`Always` exactly 3 tiles in between units**.
+    * **`Always` at minimum 3 tiles in between units**.
     * _Using `Ark` not recommended for `Howlers`_.
 - Sometimes a unit starts moving/repositioning when started, which may result in a failed attempt and troop loss.
   * _In case this happens, try moving back the repositioned unit at once_.

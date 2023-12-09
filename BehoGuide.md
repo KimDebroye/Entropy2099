@@ -98,8 +98,9 @@
 
 - There are two common layouts to position your units:
   * **[ 1) `Positioning in an X-like shape`. ]**
-    * Advised when using `Ark` vehicle in order to be able to cover all or most units with Ark vehicle,<br />
-    with the exception of `Howlers`.
+    * Provides added defense when using `Ark` vehicle ( _covering all or most units with `Ark` vehicle_ ).
+    * `Lashers` & `Revivers` only.
+    * `Howlers` require a different positioning without coverage of the `Ark` vehicle ( _see further on_ ).
   * **[ 2) `Positioning in a Star-like shape`. ]**
     * **Mandatory setup for `Howlers`**.
     * Recommended for `Lashers` & `Revivers` when/if no longer using `Ark` vehicle ( = _easier setup_ ).

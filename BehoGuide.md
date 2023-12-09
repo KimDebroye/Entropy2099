@@ -250,7 +250,7 @@
     * **Damage = key**.
     * _( Some of the ) Alternatives for `Smith` later on in season ( due to increased command cap )_.
       * `Elena`
-        * _Basically the Flora for Thermals ( added damage with the applied Thermal Incineration effects from f.e. Spotlight )_.
+        * _Added damage with the applied Thermal Incineration effects from f.e. Spotlight_.
         * _Behemoth damage reduction ( `Smith` has a fixed behemoth damage reduction, while `Elena`'s damage reduction is better for formation but has to be triggered )_.
       * `Orne` | `Marchioli`
         * _Huge damage dealers_.
